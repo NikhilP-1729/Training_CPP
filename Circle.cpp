@@ -24,3 +24,6 @@ void Circle::print()const {
 	Point::print();
 	cout << "[" << "Radius is " << radius << "]\n";
 }
+void foo() {
+	cout << "For gits\n";
+}
